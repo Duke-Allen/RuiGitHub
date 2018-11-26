@@ -1,0 +1,133 @@
+D:\C# 例程\serial_1\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_1\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_1\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_1\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_1\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_1\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_1\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_1\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_2\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_2\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_2\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_2\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_2\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_2\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_2\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_2\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_3\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_3\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_4\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_4\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_4\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_4\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_4\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_4\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_4\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_4\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_5\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_5\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_5\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_5\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_5\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_5\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_5\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_5\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_6\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_6\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_6\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_6\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_6\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_6\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_6\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_6\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_7\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_7\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_7\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_7\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_7\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_7\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_7\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_7\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_7 - 副本\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_7 - 副本\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_7 - 副本\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_7 - 副本\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_7 - 副本\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_7 - 副本\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_7 - 副本\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_7 - 副本\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_8\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_8\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_8\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_8\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_8\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_8\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_8\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_8\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_9\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_9\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_9\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_9\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_9\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_9\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_9\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_9\serial_1\bin\Debug\serial_1.pdb
+G:\李志远\C# 例程\serial_9\serial_1\obj\Debug\serial_1.exe
+G:\李志远\C# 例程\serial_9\serial_1\obj\Debug\serial_1.pdb
+G:\李志远\C# 例程\serial_9\serial_1\bin\Debug\serial_1.exe
+G:\李志远\C# 例程\serial_9\serial_1\bin\Debug\serial_1.pdb
+G:\李志远\C# 例程\serial_9\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+G:\李志远\C# 例程\serial_9\serial_1\obj\Debug\serial_1.Form1.resources
+G:\李志远\C# 例程\serial_9\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+G:\李志远\C# 例程\serial_9\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_10\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_10\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_10\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_10\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_10\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_10\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_10\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_10\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_10 - 副本\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_10 - 副本\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_10 - 副本\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_10 - 副本\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_10 - 副本\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_10 - 副本\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_10 - 副本\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_10 - 副本\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_11 - 副本\serial_1\obj\Debug\serial_1.exe
+D:\C# 例程\serial_11 - 副本\serial_1\obj\Debug\serial_1.pdb
+D:\C# 例程\serial_11 - 副本\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+D:\C# 例程\serial_11 - 副本\serial_1\obj\Debug\serial_1.Form1.resources
+D:\C# 例程\serial_11 - 副本\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+D:\C# 例程\serial_11 - 副本\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+D:\C# 例程\serial_11 - 副本\serial_1\bin\Debug\serial_1.exe
+D:\C# 例程\serial_11 - 副本\serial_1\bin\Debug\serial_1.pdb
+D:\C# 例程\serial_2\serial_1\bin\Debug\serial_1.exe.config
+D:\C# 例程\serial_3\serial_1\bin\Debug\serial_1.exe.config
+E:\C# 例程\serial_3\serial_1\bin\Debug\serial_1.exe.config
+E:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.exe
+E:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.pdb
+E:\C# 例程\serial_3\serial_1\bin\Debug\serial_1.exe
+E:\C# 例程\serial_3\serial_1\bin\Debug\serial_1.pdb
+E:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.csprojResolveAssemblyReference.cache
+E:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.Form1.resources
+E:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+E:\C# 例程\serial_3\serial_1\obj\Debug\serial_1.csproj.GenerateResource.Cache
+E:\程序\C#上位机\serial_3\serial_1\bin\Debug\serial_1.exe.config
+E:\程序\C#上位机\serial_3\serial_1\bin\Debug\serial_1.exe
+E:\程序\C#上位机\serial_3\serial_1\bin\Debug\serial_1.pdb
+E:\程序\C#上位机\serial_3\serial_1\obj\Debug\serial_1.Form1.resources
+E:\程序\C#上位机\serial_3\serial_1\obj\Debug\serial_1.Properties.Resources.resources
+E:\程序\C#上位机\serial_3\serial_1\obj\Debug\serial_1.csproj.GenerateResource.cache
+E:\程序\C#上位机\serial_3\serial_1\obj\Debug\serial_1.csproj.CoreCompileInputs.cache
+E:\程序\C#上位机\serial_3\serial_1\obj\Debug\serial_1.exe
+E:\程序\C#上位机\serial_3\serial_1\obj\Debug\serial_1.pdb
+E:\程序\C#上位机\serial_3\serial_1\obj\Debug\serial_1.csprojAssemblyReference.cache
